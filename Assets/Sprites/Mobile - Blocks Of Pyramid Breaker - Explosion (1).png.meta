@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: cb6d95d531f0f10458c03ff0e7919d57
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b080b690a097489b99d3ecb251b5c
+      internalID: -779356057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2e2bf14adc62428718300ef85006a
+      internalID: -1213167663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ce964775d38142a5f25014aac8c51
+      internalID: -2130827731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0aa41994f238745bd6f524f08a898f
+      internalID: -1624749213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b52daf5e2c0bb438752560382e654c
+      internalID: -1165594682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ded1a383a18b479a0af70f80027bf
+      internalID: -1031208733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0571a25c1e7994eb1a86238d3d9b3a
+      internalID: 1355861508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 152
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a057b599d2bf9e48b8844645a8acb4f
+      internalID: -609015799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c1164aef4d5f1469cf669a7dee1a93
+      internalID: -1279743148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5546a5b8f7f0b4e983320e402152cc
+      internalID: 461084735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd3577fd1b130e47bc78f6506dadcbe
+      internalID: -1858319513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e9e3a2ce543748909f169caf0b57f
+      internalID: -1322600356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34397377091ebf4abf3b29bfaf1a544
+      internalID: -1530360541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c470169a84e1618469fafe7e3c665ea0
+      internalID: 670472489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb9d86fb5babe4a955d44f1a21c99a
+      internalID: 590927794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 76
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e3864163b57b4e984a071460d0e31
+      internalID: 341575169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ceab4192984d4fb68a8954ca74eb0
+      internalID: 44153212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032f09077b525341ad410e43dbf79aa
+      internalID: 56313874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188e7fbc88915a4080e63195a807008
+      internalID: -1187808804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2925d733696a0a44e9135ea535452600
+      internalID: -1466691463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37263c62598a35348a4688921650410f
+      internalID: -1472077397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed11be6354122949adc48babeb2aed0
+      internalID: -685210672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22859b989e3a52f4fb5ea1d711671933
+      internalID: 1686801529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Blocks Of Pyramid Breaker - Explosion (1)_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 76.75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab014e9f1aed3d348af61ac8b89a0954
+      internalID: 86763800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_0: -779356057
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_1: -1213167663
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_10: -1858319513
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_11: -1322600356
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_12: -1530360541
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_13: 670472489
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_14: 590927794
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_15: 341575169
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_16: 44153212
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_17: 56313874
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_18: -1187808804
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_19: -1466691463
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_2: -2130827731
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_20: -1472077397
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_21: -685210672
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_22: 1686801529
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_23: 86763800
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_3: -1624749213
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_4: -1165594682
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_5: -1031208733
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_6: 1355861508
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_7: -609015799
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_8: -1279743148
+      Mobile - Blocks Of Pyramid Breaker - Explosion (1)_9: 461084735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
